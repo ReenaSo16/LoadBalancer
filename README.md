@@ -1,0 +1,1 @@
+"Implemented a load balancer using Terraform to efficiently distribute incoming traffic between Server1 and Server2, ensuring high availability and improved performance. The setup automates infrastructure provisioning, enhancing scalability and reliability."
